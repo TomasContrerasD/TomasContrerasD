@@ -1,7 +1,7 @@
 # 👋 Hola, soy Tomás Contreras
 
 🎓 **Ingeniero Civil Industrial** | 🎓 **Master of Science in Data Science**  
-📍 Chile | 🧠 Apasionado por la analítica avanzada y la innovación tecnológica
+📍 Chile
 
 ---
 
