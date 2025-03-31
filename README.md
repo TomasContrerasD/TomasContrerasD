@@ -5,7 +5,7 @@
 
 ---
 
-Soy un profesional con experiencia en **teledetección**, **modelamiento predictivo** y el desarrollo de soluciones analíticas aplicadas a la minería chilena, especialmente en el análisis de **depósitos de relaves**. Me enfoco en resolver problemas complejos mediante herramientas de **ciencia de datos**, optimizando procesos y generando valor a partir de los datos.
+Experiencia en **teledetección**, **modelamiento predictivo** y el desarrollo de soluciones analíticas aplicadas a la minería chilena, especialmente en el análisis de **depósitos de relaves**. Me enfoco en resolver problemas mediante herramientas de **ciencia de datos**, optimizando procesos y generando valor a partir de los datos.
 
 ---
 
