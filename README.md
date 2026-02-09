@@ -1,11 +1,11 @@
-# 👋 Hola, soy Tomás Contreras
+# 👋 Hi, I am Tomás Contreras
 
-🎓 **Ingeniero Civil Industrial** | 🎓 **Master of Science in Data Science**  
+🎓 **Data Scientist** | 🎓 **Ingeniero Civil Industrial** | 🎓 **Master of Science in Data Science**  
 📍 Chile
 
 ---
 
-Experiencia en **teledetección**, **modelamiento predictivo** y el desarrollo de soluciones analíticas aplicadas a la minería chilena, especialmente en el análisis de **depósitos de relaves**. Me enfoco en resolver problemas mediante herramientas de **ciencia de datos**, optimizando procesos y generando valor a partir de los datos.
+I’m a data scientist and market analyst with a strong focus on the mining industry and a growing passion for football analytics. I have professional experience in business intelligence consulting, where I’ve applied data science solutions to industry challenges. I’m also pursuing personal development in football analytics, applying the same analytical mindset across domains.
 
 ---
 
