@@ -8,14 +8,14 @@
 I’m a data scientist and market analyst with a strong focus on the mining industry and a growing passion for football analytics. I have professional experience in business intelligence consulting, where I’ve applied data science solutions to industry challenges. I’m also pursuing personal development in football analytics, applying the same analytical mindset across domains.
 
 Technical Skills:
-• Programming & Data Science: Python (Key libraries: Pandas, NumPy, Scikit-learn, BeautifulSoup), SQL, HTML. Machine Learning and experience in Remote Sensing.
-• Data Engineering & Cloud: GCP, Web Scraping, ETL Pipeline Automation, Git/GitHub.
-• Visualization & BI: Google Data Studio (Looker Studio), Microsoft Excel (Advanced Macros/VBA).
+* **Programming & Data Science**: Python (Key libraries: Pandas, NumPy, Scikit-learn, BeautifulSoup), SQL, HTML. Machine Learning and experience in Remote Sensing.
+* **Data Engineering & Cloud**: GCP, Web Scraping, ETL Pipeline Automation, Git/GitHub.
+* **Visualization & BI**: Google Data Studio (Looker Studio), Microsoft Excel (Advanced Macros/VBA).
 
 Soft Skills:
-• Strategic Communication: Proven ability to translate complex technical data into actionable insights for clients.
-• Analytical Problem Solving: Strong capability in research, market intelligence, and identifying trends in unstructured data.
-• Adaptability: Efficient transition between technical development and business strategy.
+* **Strategic Communication**: Proven ability to translate complex technical data into actionable insights for clients.
+* **Analytical Problem Solving**: Strong capability in research, market intelligence, and identifying trends in unstructured data.
+* **Adaptability**: Efficient transition between technical development and business strategy.
 
 ---
 
