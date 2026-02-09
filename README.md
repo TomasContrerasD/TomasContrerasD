@@ -1,4 +1,4 @@
-# 👋 Hi, I am Tomás Contreras
+# 👋 Hi, I'm Tomás Contreras
 
 🎓 **Data Scientist** | 🎓 **Ingeniero Civil Industrial** | 🎓 **Master of Science in Data Science**  
 📍 Chile
