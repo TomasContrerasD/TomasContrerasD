@@ -1,39 +1,77 @@
 # 👋 Hi, I'm Tomás Contreras
 
-🎓 **Data Scientist** | 🎓 **Ingeniero Civil Industrial** | 🎓 **Master of Science in Data Science**  
-📍 Chile
+**Data Scientist | Data Engineering | AI Systems | Football Analytics**  
+📍 Santiago, Chile | Open to Europe / Remote
 
 ---
 
-I’m a data scientist and market analyst with a strong focus on the mining industry and a growing passion for football analytics. I have professional experience in business intelligence consulting, where I’ve applied data science solutions to industry challenges. I’m also pursuing personal development in football analytics, applying the same analytical mindset across domains.
+I'm a Data Scientist with an MSc in Data Science and professional experience building automated data pipelines, web scraping systems, AI-assisted workflows, internal analytics tools, and strategic reporting solutions.
 
-Technical Skills:
-* **Programming & Data Science**: Python (Key libraries: Pandas, NumPy, Scikit-learn, BeautifulSoup), SQL, HTML. Machine Learning and experience in Remote Sensing.
-* **Data Engineering & Cloud**: GCP, Web Scraping, ETL Pipeline Automation, Git/GitHub.
-* **Visualization & BI**: Google Data Studio (Looker Studio), Microsoft Excel (Advanced Macros/VBA).
-
-Soft Skills:
-* **Strategic Communication**: Proven ability to translate complex technical data into actionable insights for clients.
-* **Analytical Problem Solving**: Strong capability in research, market intelligence, and identifying trends in unstructured data.
-* **Adaptability**: Efficient transition between technical development and business strategy.
+My current work combines **Python development, data engineering, LLM agents, full-stack applications, cloud deployment, and business intelligence**. I’m also building a football analytics portfolio focused on applying data science to player performance, tactical analysis, recruitment, and decision-support tools.
 
 ---
 
-## 🧰 Herramientas y tecnologías que utilizo
+## 🚀 What I work on
 
+- Building automated data pipelines and web scraping systems
+- Developing LLM agents for document analysis, information extraction, and research workflows
+- Deploying full-stack internal tools with FastAPI, Next.js, React, and Google Cloud Platform
+- Creating dashboards and analytics tools for technical and non-technical users
+- Exploring football analytics through tracking data, event data, and tactical modelling
+
+---
+
+## 🧰 Tech Stack
+
+### Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+### AI, Backend & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Full-Stack & Visualization
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
 ---
 
-## 📫 Contacto
+## ⚽ Current focus
 
-- [💼 LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-contreras-delporte)
+I'm currently developing football analytics projects around:
+
+- Defensive compactness and spatial organization
+- Tactical breakdowns using tracking and event data
+- Player profiling and recruitment-style analysis
+- Data visualization for football insights
+
+---
+
+## 📌 Featured Projects
+
+- **Estimation of Heavy Metal Concentrations in Tailings Dams**  
+  Machine learning thesis project using multispectral satellite imagery.  
+  [View repository](https://github.com/TomasContrerasD/estimation-metals-concentrations/tree/main)
+
+- **Football Analytics Portfolio**  
+  In progress — focused on tactical analysis, player performance, and decision-support tools.
+
+---
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-contreras-delporte)
+- 🧑‍💻 [GitHub](https://github.com/TomasContrerasD)
 - ✉️ tomascontrerasipd@gmail.com
