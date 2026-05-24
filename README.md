@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Tomás Contreras
 
-**Data Scientist | Data Engineering | AI Systems | Football Analytics**  
-📍 Santiago, Chile | Open to Europe / Remote
+**Data Scientist | Data Engineering | Football Analytics**  
+📍 Santiago, Chile
 
 ---
 
 I'm a Data Scientist with an MSc in Data Science and professional experience building automated data pipelines, web scraping systems, AI-assisted workflows, internal analytics tools, and strategic reporting solutions.
 
-My current work combines **Python development, data engineering, LLM agents, full-stack applications, cloud deployment, and business intelligence**. I’m also building a football analytics portfolio focused on applying data science to player performance, tactical analysis, recruitment, and decision-support tools.
+My current work combines **Python development, data engineering, LLM agents, full-stack applications, cloud deployment, and business intelligence**. I’m also building a football analytics portfolio focused on applying data science to player performance, tactical analysis, recruitment, and decision-support tools ⚽.
 
 ---
 
@@ -59,19 +59,16 @@ I'm currently developing football analytics projects around:
 
 ---
 
-## 📌 Featured Projects
+## 📌 Education
 
-- **Estimation of Heavy Metal Concentrations in Tailings Dams**  
+- Thesis: **Estimation of Heavy Metal Concentrations in Tailings Dams**  
   Machine learning thesis project using multispectral satellite imagery.  
   [View repository](https://github.com/TomasContrerasD/estimation-metals-concentrations/tree/main)
-
-- **Football Analytics Portfolio**  
-  In progress — focused on tactical analysis, player performance, and decision-support tools.
 
 ---
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-contreras-delporte)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomas-contreras-delporte/)
 - 🧑‍💻 [GitHub](https://github.com/TomasContrerasD)
 - ✉️ tomascontrerasipd@gmail.com
