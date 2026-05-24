@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Tomás Contreras
+
 # Full name (for SEO)
 first_name: Tomás
 last_name: Contreras
@@ -10,60 +11,56 @@ authors:
   - Tomas Contreras
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Student of Master of Science in Data Science
+role: Data Scientist | Data Engineering | Football Analytics
 
 # Organizations/Affiliations
 organizations:
-  - name: Adolfo Ibanez University
-    url: 'https://www.uai.cl/'
+  - name: Plusmining
+    url: 'https://www.plusmining.com/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include remote sensing, sustainability and forecasting.
+bio: Data Scientist with an MSc in Data Science, focused on data engineering, AI systems, automation, and football analytics.
 
 interests:
-  - Artificial Intelligence
   - Data Science
-  - Business Growth
+  - Machine Learning
+  - Data Engineering
+  - AI Systems
+  - Football Analytics
 
 education:
   courses:
-    - course: Industrial Civil Engineering
-      institution: Adolfo Ibanez University
-      year: 2023
     - course: Master of Science in Data Science
-      institution: Adolfo Ibanez University
-      year: 2024
-      
+      institution: Adolfo Ibáñez University
+      year: 2025
+    - course: Industrial Civil Engineering, Business Analytics
+      institution: Adolfo Ibáñez University
+      year: 2023
+
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tomascontrerasipd@gmail.com'
-  - icon: instagram
+    link: 'mailto:tomascontrerasipd@gmail.com'
+  - icon: linkedin
     icon_pack: fab
-    link: https://www.instagram.com/tomascd__/
+    link: 'https://www.linkedin.com/in/tom%C3%A1s-contreras-delporte'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/TomasContrerasD'
+
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+# Copy your CV to static/files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'tomascontrerasipd@gmail.com'
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 ---
-
-Tomas Contreras is a Student of Master of Science in Data Science at the Adolfo Ibanez University. His research interests include Artificial Intelligence, Data Science, Business Growth. His actual research is about the remote sensing of tailings ponds in mining, which develops monitoring of active tailings ponds and extrapolation of monitoring to abandoned tailings ponds.
-
-
-
-
